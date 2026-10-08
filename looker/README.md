@@ -1,10 +1,10 @@
 # Looker Studio Dashboard
 
-## Germany Energy Market Intelligence
+## Germany Energy Analytics
 
 ### Electricity Prices, Demand & Renewable Generation Analytics
 
-This folder contains documentation and screenshots for the Looker Studio dashboard developed as part of the **Germany Energy Market Intelligence** project.
+This folder contains documentation and screenshots for the Looker Studio dashboard developed as part of the **Germany Energy Analytics** project.
 
 The dashboard provides an interactive view of Germany's electricity market, focusing on electricity prices, electricity demand, renewable generation, and residual load.
 
@@ -46,7 +46,9 @@ Looker Studio
 
 ---
 
-## Dashboard Pages
+## Dashboard
+
+**[View the interactive dashboard](https://datastudio.google.com/reporting/f0e135d2-bb43-4063-8b3d-f6f9f7392114)**
 
 ### 1. Date Range Analysis
 
@@ -279,7 +281,7 @@ Potential future improvements include:
 
 ## Project
 
-This dashboard is part of the **Germany Energy Market Intelligence** project.
+This dashboard is part of the **Germany Energy Analytics** project.
 
 For the full project architecture, data pipeline, database design, validation process, and setup instructions, see the main project README.
 
